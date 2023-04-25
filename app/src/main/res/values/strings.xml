@@ -3,4 +3,14 @@
     <string name="Title">Registration Form</string>
     <string name="WTALC">Welcome to Adventure Learning Club!</string>
     <string name="FN">Full Name</string>
+    <string name="Fname">First Name</string>
+    <string name="Lname">Last Name</string>
+    <string name="M">Male</string>
+    <string name="FM">Female</string>
+    <string name="Gd">Gender</string>
+    <string name="SID">Student ID</string>
+    <string name="Sch">School</string>
+    <string name="EAdd">E-mail</string>
+    <string name="PH">Phone</string>
+    <string name="reg">Register</string>
 </resources>
